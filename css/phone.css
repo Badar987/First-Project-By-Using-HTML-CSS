@@ -1,0 +1,22 @@
+/* Navigation section */
+#navbar{
+    /* flex-direction: column; */
+}
+/* Home Section */
+#home{
+
+}
+/* Services Section */
+#services{
+/* flex-direction: column; */
+}
+#services .box{
+
+}
+
+/* Clients Services  */
+#clients{
+    overflow: hidden;
+}
+
+/* Contact Us Section  */
